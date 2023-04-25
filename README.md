@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Chenyu 👩‍💻
 
 <!--
 **iamchenyu/iamchenyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <img src="images/svg/header_en.svg"></img>
 
-### :space_invader: &nbsp;About Me
+### 👾 Who am I
+
+&nbsp;&nbsp;&nbsp;👩‍🎓 A current software engineering student
+
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
