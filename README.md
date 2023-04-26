@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chenyu 👩‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=4000&color=EA95F7&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Chenyu+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--
 <img src="images/svg/header_en.svg"></img>
@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/jadey.wang/" target="_blank"><img src="https://img.shields.io/badge/instagram-8B89CC?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr/>
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
 
 <details> 
   <summary><b>:computer: &nbsp;Tech knowledge, always learning</b></summary>
