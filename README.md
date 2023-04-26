@@ -9,11 +9,11 @@
 ### ✨ Who am I
 
 &nbsp;&nbsp;&nbsp;👩‍🎓 A current software engineering student \
-&nbsp;&nbsp;&nbsp;🌱 A down-to-earth problem solver and code lover \
-&nbsp;&nbsp;&nbsp;👩‍💼 A professional with 5 year of business experience \
+&nbsp;&nbsp;&nbsp;🌱 A real-life problem solver and code lover \
+&nbsp;&nbsp;&nbsp;👩‍💼 A professional with 5 years of business experience \
 &nbsp;&nbsp;&nbsp;🌸 A passionate Animal Crossing player \
 &nbsp;&nbsp;&nbsp;🎧 A music, theater, and podcast fan \
-&nbsp;&nbsp;&nbsp;🥘 A creative East-Meets-West food experimenter
+&nbsp;&nbsp;&nbsp;🥘 A creative East-meets-West food experimenter
 
 <p align="center">
   <a href="mailto:hellochenyuw@gmail.com?subject=Olá%20Chenyu" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
