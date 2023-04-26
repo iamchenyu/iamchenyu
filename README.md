@@ -16,12 +16,12 @@
 &nbsp;&nbsp;&nbsp;🥘 A creative East-Meets-West food experimenter
 
 <p align="center">
-  <a href="mailto:hellochenyuw@gmail.com?subject=Olá%20Chenyu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hellochenyu.net"><img src="https://img.shields.io/badge/portfolio-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@jadeyw7"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.youtube.com/channel/UCBOItn8XR537qTLlr2UKiaQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chenyuwang-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jadey.wang/"><img src="https://img.shields.io/badge/instagram-8B89CC?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hellochenyuw@gmail.com?subject=Olá%20Chenyu" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hellochenyu.net" target="_blank"><img src="https://img.shields.io/badge/portfolio-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@jadeyw7" target="_blank"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.youtube.com/channel/UCBOItn8XR537qTLlr2UKiaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chenyuwang-/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jadey.wang/" target="_blank"><img src="https://img.shields.io/badge/instagram-8B89CC?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
