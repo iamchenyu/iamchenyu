@@ -7,7 +7,7 @@
 </a>
 <br />
 <br />
-<img src="https://im3.ezgif.com/tmp/ezgif-3-d1738f1536.gif"></div>
+<img src="https://imagizer.imageshack.com/img923/6163/VhflWw.gif" width="70%"></div>
 
 
 ### ✨ Who am I
