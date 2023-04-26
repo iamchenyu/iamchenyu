@@ -6,7 +6,7 @@
 
 
 
-### 👾 Who am I
+### ✨ Who am I
 
 &nbsp;&nbsp;&nbsp;👩‍🎓 A current software engineering student \
 &nbsp;&nbsp;&nbsp;🌱 A down-to-earth problem solver and code lover \
@@ -81,7 +81,7 @@
 <hr/>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchenyu&hide_border=true&theme=nightowl" />
