@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=4000&color=EA95F7&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Chenyu+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<!--
-<img src="images/svg/header_en.svg"></img>
--->
 
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=4000&color=EA95F7&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Chenyu+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"/>
+</a>
+<br />
+<br />
+<img src="https://im3.ezgif.com/tmp/ezgif-3-d1738f1536.gif"></div>
 
 
 ### ✨ Who am I
