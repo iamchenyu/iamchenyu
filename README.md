@@ -26,7 +26,7 @@
 
 <hr/>
 
-<details>
+<details> 
   <summary><b>:computer: &nbsp;Tech knowledge, always learning</b></summary>
   <br/>
 
@@ -78,6 +78,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 </details>
 
+<hr/>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
@@ -88,9 +89,20 @@
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamchenyu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchenyu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-</details>
 
+</details>
 <hr/>
+
+
+<summary><b>🎵 &nbsp;Welcome to my music world</b></summary>
+  <br/>
+    <p align="center">
+  <a href="https://www.data-card-for-spotify.com/card?user_id=qudfy3lama201oaw5lngnbupw">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=qudfy3lama201oaw5lngnbupw&custom_title=Chenyu%27s%20Listening%20Mode" alt="Data Card for Spotify">
+</a>
+    </p>
+   
+
 
 
 <!--
