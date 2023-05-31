@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;🌱 A real-life problem solver and code lover \
 &nbsp;&nbsp;&nbsp;👩‍💼 A professional with 5 years of business experience \
 &nbsp;&nbsp;&nbsp;🌸 A passionate Animal Crossing player \
-&nbsp;&nbsp;&nbsp;🎧 A music, theater, and podcast fan \
+&nbsp;&nbsp;&nbsp;🎧 A music, movie, and podcast fan \
 &nbsp;&nbsp;&nbsp;🥘 A creative East-meets-West food experimenter
 
 <p align="center">
@@ -91,7 +91,7 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchenyu&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamchenyu&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchenyu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamchenyu&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchenyu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 
 </details>
