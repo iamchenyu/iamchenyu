@@ -98,12 +98,13 @@
 <hr/>
 
 <details open> 
+
   
 <summary><b>🎵 &nbsp;Welcome to my music world</b></summary>
   <br/>
     <p align="center">
-  <a href="https://www.data-card-for-spotify.com/card?user_id=qudfy3lama201oaw5lngnbupw">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=qudfy3lama201oaw5lngnbupw&custom_title=Chenyu%27s%20Listening%20Mode" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=qudfy3lama201oaw5lngnbupw">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=qudfy3lama201oaw5lngnbupw" alt="Data Card for Spotify">
 </a>
     </p>
    
